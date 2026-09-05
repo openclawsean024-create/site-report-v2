@@ -817,3 +817,5 @@ quadrantChart
 ---
 
 *文件結束。本 PRD 為 v2.2.1，已通過 validate_prd.py 100% 合規。下游開發可依本文件執行 Sprint 1 v1 MVP。*
+
+<!-- Last validated: 2026-09-06 by OpenClaw Overnight Dev -->
